@@ -1,0 +1,33 @@
+{
+  "common": {
+    "dashboard": "แดชบอร์ด",
+    "welcome": "ยินดีต้อนรับสู่แดชบอร์ดของคุณ",
+    "menu": "เมนู",
+    "close_menu": "ปิดเมนู",
+    "open_menu": "เปิดเมนู",
+    "expand_sidebar": "ขยายแถบด้านข้าง",
+    "collapse_sidebar": "ย่อแถบด้านข้าง",
+    "loading": "กำลังโหลด"
+  },
+  "header": {
+    "edit_profile": "แก้ไขโปรไฟล์",
+    "logout": "ออกจากระบบ"
+  },
+  "language": {
+    "english": "อังกฤษ",
+    "thai": "ไทย",
+    "switch_language": "เปลี่ยนภาษา"
+  },
+  "theme": {
+    "switch_to_dark": "เปลี่ยนเป็นโหมดมืด",
+    "switch_to_light": "เปลี่ยนเป็นโหมดสว่าง",
+    "light_mode": "โหมดสว่าง",
+    "dark_mode": "โหมดมืด",
+    "system_mode": "ตามระบบ",
+    "select_theme": "เลือกธีม"
+  },
+  "metadata": {
+    "title": "สร้าง Next App",
+    "description": "สร้างโดย create next app"
+  }
+}

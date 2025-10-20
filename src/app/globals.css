@@ -1,0 +1,10 @@
+@import 'tailwindcss';
+
+@variant dark (&:where(.dark, .dark *));
+
+@layer base {
+  body {
+    font-family: var(--font-noto-sans-thai), sans-serif;
+    @apply bg-white dark:bg-neutral-900;
+  }
+}
